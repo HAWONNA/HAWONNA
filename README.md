@@ -8,11 +8,11 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## HAWON NA 
   #### :raising_hand: I am a Quant AI Researcher from South Korea.<br/>
   #### :fire: I aim to become a Financial Engineering expert, Quant Investor <br/>
   #### :mortar_board: Master of Industrial Engineering (Financial Engineering), KyungHee University(KHU) <br/>
-  #### :KyungHee UNIV. FELAB
+  #### KyungHee UNIV. FELAB
   <br/>
   <br/>
   
@@ -31,22 +31,12 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
   
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
- 
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
+  ### Tools
+  <!--Cursor-->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSI+PHBhdGggZD0iTTMgM2gxOHYxOEgzeiIvPjxwYXRoIGZpbGw9IiMwMDY2RkYiIGQ9Ik0xMCA1djJoMXYySDEwdi0ySDlWNWgxem0wIDZoMnYySDEweiIvPjwvc3ZnPg==" />
+  <!--VS Code-->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
