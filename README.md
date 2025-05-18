@@ -8,8 +8,7 @@
 
 <div>
   <!--Body-->
-  
-  ## HAWON NA 
+
   #### :raising_hand: Quant AI Researcher from South Korea.<br/>
   #### :fire: Aiming to become Financial Engineering expert, Quant Investor <br/>
   #### :mortar_board: Master of Industrial Engineering (Financial Engineering), KyungHee University(KHU) <br/>
