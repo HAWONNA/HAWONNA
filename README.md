@@ -10,8 +10,8 @@
   <!--Body-->
   
   ## HAWON NA 
-  #### :raising_hand: I am a Quant AI Researcher from South Korea.<br/>
-  #### :fire: I aim to become a Financial Engineering expert, Quant Investor <br/>
+  #### :raising_hand: Quant AI Researcher from South Korea.<br/>
+  #### :fire: Aiming to become Financial Engineering expert, Quant Investor <br/>
   #### :mortar_board: Master of Industrial Engineering (Financial Engineering), KyungHee University(KHU) <br/>
   #### KyungHee UNIV. FELAB
   <br/>
